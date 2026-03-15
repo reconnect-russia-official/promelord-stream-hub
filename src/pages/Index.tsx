@@ -13,7 +13,7 @@ const Index = () => (
       className="fixed inset-0 z-0 bg-cover bg-center bg-no-repeat"
       style={{ backgroundImage: "url('/images/phon.webp')" }}
     >
-      <div className="absolute inset-0 bg-background/85" />
+      <div className="absolute inset-0 bg-background/60" />
     </div>
 
     <Header />
